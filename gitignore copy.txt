@@ -1,0 +1,5 @@
+&https://dev.to/JakobMG/*.db6deaf.org# Object file
+*.JakobMG/*.d598269.*/e.sni-729-default.ssl.fastly.net&
+
+# Ada Library Information
+*.ali
